@@ -1,6 +1,6 @@
-const ImageList = () => {
+const ImageList = ({ images }) => {
     return(
-      <div>Imagelist</div>
+      <div>Imagelist: {images.length}</div>
     )
   }
   
