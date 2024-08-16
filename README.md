@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
 - Site is live at: https://iamha1.github.io/search_api/
 
+- This is how the search will look like:
+
