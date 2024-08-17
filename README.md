@@ -13,4 +13,3 @@
 * when search for city: 
 ![city](https://github.com/iamha1/search_api/blob/main/public/Screenshot%202024-08-17%20at%2009.04.24.png)
 
-
